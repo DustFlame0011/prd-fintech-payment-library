@@ -7,7 +7,7 @@ As a **new merchant**, I want to register with my business email and
 receive an OTP, so that my account is verified quickly without 
 needing to call support.
 
-**Acceptance Criteria:** → See AC-001 in acceptance-criteria.md
+**Acceptance Criteria:** → See AC-001 in [acceptance-criteria.md](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/01-merchant-onboarding/acceptance-criteria.md)
 
 ---
 
