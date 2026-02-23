@@ -3,6 +3,7 @@
 **Version:** 1.0  
 **Status:** Draft  
 **Author:** Sukumal 
+
 **Last Updated:** 23-Feb-2025  
 **PRD Owner:** Product - Payments & Risk  
 **Stakeholders:** Compliance, Risk, Merchant Ops, Engineering, Legal
@@ -66,7 +67,7 @@ Build a self-serve Chargeback Dispute Management portal that gives merchants rea
 
 ## 4. User Stories
 
-See `user-stories.md`
+See [`user-stories.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/02-chargeback-dispute/user-stories.md)
 
 ---
 
@@ -139,7 +140,7 @@ See `user-stories.md`
 
 ## 7. Acceptance Criteria
 
-See `acceptance-criteria.md`
+See [`acceptance-criteria.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/02-chargeback-dispute/acceptance-criteria.md)
 
 ---
 
