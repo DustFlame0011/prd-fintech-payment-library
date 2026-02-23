@@ -4,6 +4,10 @@
 **Author:** Sukumal  
 **Last Updated:** 23-Feb-2025
 
+**Demo** [**Interactive Wireframe**](https://merchant-onboarding-wirframe.vercel.app/)
+
+<img width="431" height="677" alt="Image" src="https://github.com/user-attachments/assets/f1140101-e548-4508-b53a-8d21c168d1b7" /> <img width="423" height="455" alt="Image" src="https://github.com/user-attachments/assets/4ada45ef-61c6-485d-b201-b9e7e628820c" />
+
 ---
 
 ## 1. Overview & Problem Statement
