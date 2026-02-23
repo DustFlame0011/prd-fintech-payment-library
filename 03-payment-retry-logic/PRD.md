@@ -78,7 +78,7 @@ Build an intelligent, configurable Payment Retry Engine that automatically ident
 
 ## 4. User Stories
 
-See `user-stories.md`
+See [`user-stories.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/03-payment-retry-logic/user-stories.md)
 
 ---
 
@@ -169,7 +169,7 @@ See `user-stories.md`
 
 ## 7. Acceptance Criteria
 
-See `acceptance-criteria.md`
+See [`acceptance-criteria.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/03-payment-retry-logic/acceptance-criteria.md)
 
 ---
 
