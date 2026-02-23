@@ -54,7 +54,7 @@ support tickets by 50%.
 
 ## 4. User Stories
 
-See `user-stories.md`
+See [`user-stories.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/01-merchant-onboarding/user-stories.md)
 
 ---
 
@@ -100,7 +100,7 @@ See `user-stories.md`
 
 ## 7. Acceptance Criteria
 
-See `acceptance-criteria.md`
+See [`acceptance-criteria.md`](https://github.com/DustFlame0011/prd-fintech-payment-library/blob/main/01-merchant-onboarding/acceptance-criteria.md)
 
 ---
 
